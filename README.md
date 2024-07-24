@@ -1,2 +1,2 @@
 # Leval
-Social Platform for League of Legends and Valorant Enthusiasts
+Social Platform for League of Legends and enthusiasts
